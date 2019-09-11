@@ -1,6 +1,6 @@
 ---
 title: "Homework 1: US gun murders"
-date: "September 4, 2019"
+date: "September 20, 2019"
 output: html_document
 ---
 #### Due: September 20th by 11:59pm
